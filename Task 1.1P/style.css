@@ -1,4 +1,3 @@
-/* Reset default margins and paddings */
 * {
   margin: 0;
   padding: 0;
@@ -197,3 +196,4 @@ body {
 .gallery-area img:hover {
   transform: scale(1.05);
 }
+
